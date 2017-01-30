@@ -50,10 +50,7 @@ print
 print "Set"
 print(a.next_setting(j))
 print
-print j.cmlI
-print j.cmlII
-isinstance(d, float)		
-print ("Decimal Day representing %s :  %f" % (d, d))
+
 
 
 
